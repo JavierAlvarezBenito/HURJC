@@ -3,7 +3,7 @@ Sistema de triaje en tendinopatía calcificante mediante el empleo de IA
 
 ## 1.- Vamos a utilizar una red pre-entrenada ChestXNet
 
-Referencías
+Referencias
 
 1. https://github.com/rakibalfahad/CheXNet-Keras
 1. https://lukeoakdenrayner.wordpress.com/2017/12/18/the-chestxray14-dataset-problems/
